@@ -6,13 +6,17 @@ Osun EduOS is designed to hold records about children, teachers and schools. We 
 
 **Please do not open a public issue for security problems.**
 
-Report vulnerabilities privately through GitHub: open the affected repository's **Security** tab and choose **Report a vulnerability**. Include:
+Report vulnerabilities privately through GitHub: open the affected repository's **Security** tab and choose **Report a vulnerability**. Private vulnerability reporting is turned on for every Osun EduOS repository. If you are not sure which repository is affected, [report it in osun-eduos](https://github.com/Osun-eduos/osun-eduos/security/advisories/new). Include:
 
 - what the issue is and where it is (file, screen or URL);
 - steps to reproduce it;
 - the possible impact.
 
 We aim to acknowledge reports within 3 working days and to agree a fix and disclosure timeline with you.
+
+## What we have turned on
+
+Every repository has Dependabot alerts and security updates, secret scanning, and push protection, which blocks commits that contain credentials such as API keys.
 
 ## Supported versions
 

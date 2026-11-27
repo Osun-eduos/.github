@@ -11,10 +11,10 @@ Osun EduOS connects the Ministry of Education, education agencies, public and pr
 | Repository | What it is | Status |
 | --- | --- | --- |
 | [osun-eduos](https://github.com/Osun-eduos/osun-eduos) | Start here: overview, architecture, roadmap | Active |
-| [eduos-web](https://github.com/Osun-eduos/eduos-web) | Web app for the Ministry, schools, teachers and parents | Prototype |
-| [eduos-api](https://github.com/Osun-eduos/eduos-api) | Application API, database and sync service | Planned |
-| [eduos-android](https://github.com/Osun-eduos/eduos-android) | Offline-first Android app for teachers and inspectors | Planned |
-| [eduos-ios](https://github.com/Osun-eduos/eduos-ios) | Offline-first iOS app for teachers and inspectors | Planned |
+| [eduos-web](https://github.com/Osun-eduos/eduos-web) | Web app for the Ministry, schools, teachers and parents | In development |
+| [eduos-api](https://github.com/Osun-eduos/eduos-api) | Application API and database | In development |
+| [eduos-mobile](https://github.com/Osun-eduos/eduos-mobile) | Offline-first Android and iOS app for parents, teachers and inspectors | In development |
+| [eduos-sync](https://github.com/Osun-eduos/eduos-sync) | Sync service for the mobile app | In development |
 
 ## Get involved
 
